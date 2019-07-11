@@ -7,4 +7,4 @@ Download IntelliJ version 2019.1.3
 Dependencies have to be downloaded so that the desired capabilities and other elements can be imported  
 Thus , you have to download the java-client (jar file) ver. 5.0.0 , selenium client and webdriver language bindings (java) ver. 3.141.59 and the selenium standalone server ver. 3.141.59
 Open a new project in intelliJ , add a lib file and move it to the src folder . Under the lib folder you can place all of the dependencies and add as global library 
-Place the script in a new Java class under the src folder , and to import the elements , you can ALT + ENTER the specific elements so that it can run successfully 
+Place the script in a new Java class under the src folder , and to import the elements so that it can run successfully 
