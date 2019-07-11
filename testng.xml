@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/muvee/AndroidStudioProjects/Realtest01(wk6d2)/src">
       <classes>
-          <class name="Test05">
+          <class name="Test01">
 
           </class>
 
